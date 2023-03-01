@@ -1,0 +1,135 @@
+.hel{
+    height: 30px;
+    width: 100%;
+    z-index: 100px;
+}
+.btnget{
+    height: 60px;
+    width: 130px;
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 90px;
+    background: none;
+    border: none;
+}
+.maindiv{
+    /* margin-top: -400px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 90px   ;
+}
+.imgget{
+    height: 30px;
+    width: 40px;
+}
+.geth{
+    font-size: 14px;
+    width: 60px;
+}
+.divs{
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    /* justify-content: space-between; */
+    align-items: center;
+    width: 500px;
+    /* justify-content: center; */
+    gap: 30px;
+    
+}
+.gethh{
+    font-size: 13px;
+}
+.btngeth{
+    height: 60px;
+    /* width: 10px; */
+    align-items: center;
+    /* margin-left: 90px; */
+    background: none;
+    border: none;
+}
+.thediv{
+    /* margin-top: -400px; */
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+    height: 700%;
+}
+.hetw{
+    height: 30%;
+    width: 100%;
+    background-image: url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
+     /*background-color: blue; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 100%;
+    padding-bottom: 90px;
+
+
+}
+.zomatotext{    
+    display: flex;
+    align-items: center;
+    justify-content:baseline;
+    flex-direction: column;
+}
+.divsed{
+    background-color:white;
+    height: 55px;
+    width: 720px;
+    /* margin-top: -200px; */ 
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    /*justify-content: space-between;*/
+    flex-direction: row;
+    gap: 20px;
+
+}
+.locimgs{
+    height: 20px;
+    width: 20px;
+
+    
+}
+
+.zombiw{
+    font-size: 55px;
+    font-weight:900;
+}
+.asdfh{
+    display: flex;
+    flex-direction: row;
+    /*justify-content: center; */
+    align-items: center;    
+    /*justify-content: space-around;*/
+    gap: 1%;
+}
+
+
+.foods{
+         border-top-right-radius: 10px;
+         border-top-left-radius: 10px;
+         width: 435px;
+         height: 400px;
+         
+}
+.fooddiv{
+    border-radius: 10px;
+    border-color: #000000;
+    border-width: 2px;
+    margin-top: 20px;
+    height: 550px;
+    width: 435px;
+    border-style: solid;
+}
+.order{
+    margin-left: 30px;
+
+}
+.collections{
+  
+}
